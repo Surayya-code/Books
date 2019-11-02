@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\bin\Debug\WindowsFormsAppBooks.exe.config
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\bin\Debug\WindowsFormsAppBooks.exe
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\bin\Debug\WindowsFormsAppBooks.pdb
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\obj\Debug\WindowsFormsAppBooks.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\obj\Debug\WindowsFormsAppBooks.Form1.resources
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\obj\Debug\WindowsFormsAppBooks.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\obj\Debug\WindowsFormsAppBooks.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\obj\Debug\WindowsFormsAppBooks.exe
+C:\Users\user\source\repos\WindowsFormsAppBooks\WindowsFormsAppBooks\obj\Debug\WindowsFormsAppBooks.pdb
